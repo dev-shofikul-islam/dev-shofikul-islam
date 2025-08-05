@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shofikul Islam</h1>
+<h1 align="center">Hello! 👋, I'm Shofikul Islam</h1>
 <h3 align="center">Full-Stack Web Developer | Skilled in HTML, CSS, JS, PHP, MySQL, WordPress | Always Learning, Always Building </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-shofikul-islam&label=Profile%20views&color=0e75b6&style=flat" alt="dev-shofikul-islam" /> </p>
